@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
 }
 
@@ -189,7 +189,7 @@ section.home {
 }
 
 .services .service .icon img {
-  max-width: 100px;
+  max-width: 300px;
 }
 
 /* WORK PAGE */
